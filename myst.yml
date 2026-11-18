@@ -18,6 +18,8 @@ project:
     - file: Notebooks/materi5.ipynb
     - file: Notebooks/materi6.ipynb
     - file: Notebooks/materi7.ipynb
+    - file: Notebooks/materi8.ipynb
+    - file: Notebooks/materi9.ipynb
 
 site:
   title: Web Mining - Muhammad Rafi Lazuardi

@@ -26,6 +26,7 @@ Thumbs.db
 
 # Repo terpisah dengan git sendiri
 aplikasi-klasifikasi-berita/
+aplikasi-crawler-pagerank/
 
 # Tooling lokal (bukan bagian project)
 .agents/
